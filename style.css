@@ -1,6 +1,8 @@
 h1 {
-  font-family:arial;
-  color: white;
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: bold;
+  font-style : italic;
+  color: black;
 }
 
 a{
@@ -9,16 +11,16 @@ a{
 }
 
 #firstattempt{
-  position: absolute;
-  margin-top:38%;
+  /* position: absolute; */
+  /* margin-top:38%; */
   font-family: Helvetica, Arial, sans-serif;
   font-weight: bold;
   font-style : italic;
 }
 #inthe{
   color: black;
-  position: absolute;
-  margin-top: 3%;
+  /* position: absolute; */
+  /* margin-top: 3%; */
   font-family: Helvetica, Arial, sans-serif;
   font-weight: bold;
   font-style : italic;
@@ -27,20 +29,20 @@ a{
 #first{
   width: 650px;
   height:450px;
-  margin-top:5%;
-  margin-right: 40%;
-  position:absolute;
+  /* margin-top:5%;
+  margin-right: 40%; */
+  /* position:absolute; */
 }
 #inthe2{
-  position: absolute;
-  margin-top: 50%;
+  /* position: absolute; */
+  /* margin-top: 50%; */
   font-family: Helvetica, Arial, sans-serif;
   font-weight: bold;
   font-style : italic;
 }
 #secondattempt{
-  position:absolute;
-  margin-top:85%;
+  /* position:absolute; */
+  /* margin-top:85%; */
   font-family: Helvetica, Arial, sans-serif;
   font-weight: bold;
   font-style : italic;
@@ -48,58 +50,48 @@ a{
 #revision{
   width: 650px;
   height:450px;
-  margin-top:52%;
-  position:absolute;
+  /* margin-top:52%; */
+  /* position:absolute; */
 }
 #inthe3{
-  position: absolute;
-  margin-top: 97%;
+  /* position: absolute; */
+  /* margin-top: 97%; */
   font-family: Helvetica, Arial, sans-serif;
   font-weight: bold;
   font-style : italic;
 }
 #difficulty{
-  position:absolute;
-  margin-top:100%;
+  /* position:absolute; */
+  /* margin-top:100%; */
   font-family: Helvetica, Arial, sans-serif;
   font-weight: bold;
   font-style : italic;
 }
 #act{
-  position: absolute;
+  /* position: absolute; */
   font-family: Helvetica, Arial, sans-serif;
   font-weight: bold;
   font-style : italic;
-  margin-top: 3%;
+  /* margin-top: 3%; */
 }
 #interview{
-  position: absolute;
+  /* position: absolute; */
   font-family: Helvetica, Arial, sans-serif;
   font-weight: bold;
   font-style : italic;
-  margin-top: 0%;
+  /* margin-top: 0%; */
 }
 #list{
-  position: absolute;
+  /* position: absolute; */
   font-family: Helvetica, Arial, sans-serif;
   font-weight: bold;
   font-style : italic;
-  margin-top: 5%;
+  /* margin-top: 5%; */
 }
 #act2{
-  position: absolute;
+  /* position: absolute; */
   font-family: Helvetica, Arial, sans-serif;
   font-weight: bold;
   font-style : italic;
-  margin-top: 15%;
-}
-#back{
-  position: absolute;
-  margin-top: 107%;
-  margin-left: 90%;
-}
-#back2{  position: absolute;
-  margin-top: 860px;
-  margin-left: 1100px;
-
+  /* margin-top: 15%; */
 }
